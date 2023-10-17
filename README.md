@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+(url)<img src="./assets/greetings.gif">
 -->
-<img src="./assets/greetings.gif">
+
 
 <br>
 
@@ -25,26 +26,26 @@ Some of my previous jobs and internships included coding in javascript and other
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/html.svg"> &nbsp;
+    src="./html.svg"> &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/css.svg"> &nbsp;
+    src="./css.svg"> &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/javascript.svg"> &nbsp; &nbsp;
+    src="./javascript.svg"> &nbsp; &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/python.svg"> &nbsp;
+    src="./python.svg"> &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/react.svg"> &nbsp;
+    src="./react.svg"> &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/node.svg">
+    src="./node.svg">
 
 -----
