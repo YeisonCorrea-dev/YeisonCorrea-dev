@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="./assets/greetings.gif">
+
+<br>
+
+**Hi, I'm Yeison. I'm a software developer and student of electronic engineering. I like programming because of how  amazing, powerful and entertaining it can be.**
+
+Some of my previous jobs and internships included coding in javascript and others languages.
+
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/html.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/css.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/javascript.svg"> &nbsp; &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/python.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/react.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/node.svg">
+
+-----
